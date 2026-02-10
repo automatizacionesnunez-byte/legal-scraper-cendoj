@@ -1,4 +1,4 @@
-﻿{
+{
   "name": "legal-scraper-cendoj",
   "version": "1.0.0",
   "description": "API para scraping de CENDOJ con Puppeteer",
